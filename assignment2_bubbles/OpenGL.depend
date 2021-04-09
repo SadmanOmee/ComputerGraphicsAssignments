@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1548832873 source:g:\codes\new folder (5)\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\codes\new folder (5)\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1549147164 source:g:\codes\assignment 4\new folder (5)\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 g:\codes\assignment 4\new folder (5)\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1545710763 g:\codes\assignment 4\new folder (5)\opengl\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1617958391 source:g:\cse\level-4, term-2\computer graphics\assignments_restructured\assignment1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\cse\level-4, term-2\computer graphics\assignments_restructured\assignment1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1617958391 source:g:\cse\level-4, term-2\computer graphics\assignments_restructured\assignment2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\cse\level-4, term-2\computer graphics\assignments_restructured\assignment2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1617958528 source:g:\cse\level-4, term-2\computer graphics\assignments_restructured\assignment2_bubbles\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\cse\level-4, term-2\computer graphics\assignments_restructured\assignment2_bubbles\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
